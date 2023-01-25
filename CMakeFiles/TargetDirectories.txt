@@ -1,0 +1,3 @@
+/home/striempie/Dev/projects/public/calculator/CMakeFiles/Calculator.dir
+/home/striempie/Dev/projects/public/calculator/CMakeFiles/edit_cache.dir
+/home/striempie/Dev/projects/public/calculator/CMakeFiles/rebuild_cache.dir
